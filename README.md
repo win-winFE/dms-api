@@ -10,6 +10,8 @@
 
 ## 使用
 
+**见 [dms](https://github.com/win-winFE/dms)**
+
 ### 安装
 ```bash
 > git clone https://github.com/win-winFE/dms-api.git
@@ -23,7 +25,7 @@
 
 ### 启动
 ```bash
-> yarn dev
+> yarn start
 ```
 
 ## 参与贡献

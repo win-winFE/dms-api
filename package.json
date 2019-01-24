@@ -27,7 +27,7 @@
     "api"
   ],
   "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-dms-api",
+    "start": "egg-scripts start --daemon --title=egg-server-dms-api --port=7102",
     "stop": "egg-scripts stop --title=egg-server-dms-api",
     "dev": "egg-bin dev --port=7102",
     "debug": "egg-bin debug",
